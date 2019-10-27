@@ -1,5 +1,5 @@
 # HackGTProject
-Amazon Sponsor challenge created at HackGT - Alexa Student Skill
+Amazon Sponsor challenge created at HackGT - Alexa Student Life Skill
 
 
 This skill has the capability to improve the life of a student in 4
